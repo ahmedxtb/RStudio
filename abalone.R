@@ -1,2 +1,2 @@
 abalone <- read.csv("abalone.csv")
-plot(Diameter ~ Sex, data = abalone)
+plot(Height ~ Sex, data = abalone)
